@@ -3,8 +3,8 @@ const { Account, Aptos, AptosConfig, Network, Ed25519PrivateKey } = require("@ap
 // Define the custom network configuration
 const config = new AptosConfig({ 
     network: Network.CUSTOM,
-    fullnode: 'https://aptos.testnet.suzuka.movementlabs.xyz/v1',
-    faucet: 'https://faucet.testnet.suzuka.movementlabs.xyz',
+    fullnode: 'https://aptos.testnet.porto.movementlabs.xyz/v1',
+    faucet: 'https://fund.testnet.porto.movementlabs.xyz/',
 });
 
 // Define the module address and functions
