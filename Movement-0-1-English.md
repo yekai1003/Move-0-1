@@ -220,6 +220,3 @@ yarn build
 yarn vercel --prod
 ```
 
----
-
-This translation maintains the original structure and technical accuracy while adapting terminology and instructions for an English-speaking audience.
