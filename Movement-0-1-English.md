@@ -192,7 +192,7 @@ A modern, clean toolkit for building decentralized applications (dApps) on Move-
 1. Clone the repository:  
 
 ```sh
-git clone https://github.com/rootMUD/scaffold-move.git
+git clone https://github.com/NonceGeek/scaffold-move.git
 ```
 
 2. Install dependencies:  
